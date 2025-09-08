@@ -1,6 +1,4 @@
-# MyShaderGraphs
-Welcome to MyShaderGraphs! :)
+Learning and experimenting with **Unity Shader Graph (URP)**  
+Version: **Unity 2022.3.21f1c1**
 
-Version(版本) |Unity2022.3.21f1c1|
-
-Shader |Unity-ShaderGraph(URP)|
+This is my ongoing record of engineering practice and learning in computer graphics, focusing on shader development with Unity.
